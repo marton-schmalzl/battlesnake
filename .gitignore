@@ -1,0 +1,8 @@
+.DS_Store
+SQLGuide.txt
+node_modules/
+dist
+
+.env
+
+.idea
